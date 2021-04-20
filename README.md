@@ -32,3 +32,5 @@
 2021.4.17 | [538. 把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/description/) | Medium (66.52%) | [tree](https://leetcode.com/tag/tree/) | ❎ | 2021.4.17 | [538.把二叉搜索树转换为累加树.py](src/538.把二叉搜索树转换为累加树.py)
 2021.4.19 | [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/description/) | Easy (52.59%) | [tree](https://leetcode.com/tag/tree/) | ❎ | 2021.4.19 | [543.二叉树的直径.py](src/543.二叉树的直径.py)
 2021.4.19 | [563 二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/description/) | Easy (58.86%) | [tree](https://leetcode.com/tag/tree/) | ❎ | 2021.4.19 | [563.二叉树的坡度.py](src/563.二叉树的坡度.py)
+2021.4.20 | [572. 另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/description/) | 	Easy (47.31%) | [tree](https://leetcode.com/tag/tree/) | ✅ | 2021.4.20 | [572.另一个树的子树.py](src/572.另一个树的子树.py)
+2021.4.20 | [606. 根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/description/) | Easy (55.93%) | [string](https://leetcode.com/tag/string), [tree](https://leetcode.com/tag/tree/) | ✅ | 2021.4.20 | [606.根据二叉树创建字符串.py](src/606.根据二叉树创建字符串.py)
