@@ -36,3 +36,5 @@
 2021.4.20 | [606. 根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/description/) | Easy (55.93%) | [string](https://leetcode.com/tag/string), [tree](https://leetcode.com/tag/tree/) | ✅ | 2021.4.20 | [606.根据二叉树创建字符串.py](src/606.根据二叉树创建字符串.py)
 2021.4.21 | [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/description/) | Easy (78.76%) | [tree](https://leetcode.com/tag/tree/) | ❎ | 2021.4.21 | [617.合并二叉树.py](src/617.合并二叉树.py)
 2021.4.21 | [623. 在二叉树中增加一行](https://leetcode-cn.com/problems/add-one-row-to-tree/description/) | Medium (54.13%) | [tree](https://leetcode.com/tag/tree/) | ❎ | 2021.4.21 | [623.在二叉树中增加一行.py](src/623.在二叉树中增加一行.py)
+2021.4.22 | [637. 二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/description/) | Easy (68.79%) | [tree](https://leetcode.com/tag/tree/) | ❎ | 2021.4.22 | [637.二叉树的层平均值.py](src/637.二叉树的层平均值.py)
+2021.4.22 | [652. 寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees/description/) | Medium (56.15%) | [tree](https://leetcode.com/tag/tree/) | ✅ | 2021.4.22 | [652.寻找重复的子树.py](src/652.寻找重复的子树.py)

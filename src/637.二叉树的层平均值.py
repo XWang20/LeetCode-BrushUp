@@ -17,5 +17,21 @@ class Solution(object):
         :type root: TreeNode
         :rtype: List[float]
         """
+        res = list()
+        queue = [root]
+        while queue:
+            q = []
+            total = 0
+            for node in queue:
+                if node.left:
+                    q.append(node.left)
+                if node.right:
+                    q.append(node.right)
+                total += node.val
+
+            res.append(total/float(len(queue)))
+            queue = q
+        return res
+            
 # @lc code=end
 
