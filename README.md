@@ -40,3 +40,4 @@
 2021.4.22 | [652. 寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees/description/) | Medium (56.15%) | [tree](https://leetcode.com/tag/tree/) | ✅ | 2021.4.22 | [652.寻找重复的子树.py](src/652.寻找重复的子树.py)
 2021.4.23 | [653. 两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/description/) | Easy (58.18%) | [tree](https://leetcode.com/tag/tree/) | ❎ | 2021.4.23 | [653.两数之和-iv-输入-bst.py](src/653.两数之和-iv-输入-bst.py)
 2021.4.23 | [654. 最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/description/) | Medium (81.36%) | [tree](https://leetcode.com/tag/tree/) | ❎ | 2021.4.23 | [654.最大二叉树.py](src/654.最大二叉树.py)
+2021.4.24 | [724. 寻找数组的中心下标](https://leetcode-cn.com/problems/find-pivot-index/description/) | Easy (43.63%)	 | [array](https://leetcode.com/tag/array) | ✅ | 2021.4.24 | [724.寻找数组的中心下标.py](src/724.寻找数组的中心下标.py)
