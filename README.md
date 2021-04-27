@@ -1,5 +1,6 @@
 # LeetCode-BrushUp
 
+Leetcode EVERY DAY! 👍
 ## [Tree](https://leetcode.com/tag/tree/)
 | Date | Question | Difficulty | Tags | Read Solution? | Last Review | Solution |
 | --- | --- | :---: | --- | :---: | :---: | --- |
@@ -48,3 +49,5 @@
 2021.4.24 | [724. 寻找数组的中心下标](https://leetcode-cn.com/problems/find-pivot-index/description/) | Easy (43.63%)	 | [array](https://leetcode.com/tag/array) | ✅ | 2021.4.24 | [724.寻找数组的中心下标.py](src/724.寻找数组的中心下标.py)
 2021.4.25 | [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/description/) | Medium (44.85%) | [array](https://leetcode.com/tag/array), [sort](https://leetcode.com/tag/sort) | ✅ | 2021.4.25 | [56.合并区间.py](src/56.合并区间.py)
 2021.4.25 | [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image/description/) | Medium (72.50%) | [array](https://leetcode.com/tag/array) | ✅ | 2021.4.25 | [48.旋转图像.py](src/48.旋转图像.py)
+2021.4.27 | [73. 矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/description/) | Medium (58.97%) | [array](https://leetcode.com/tag/array) | ❎ | 2021.4.27 | [73.矩阵置零.py](src/73.矩阵置零.py)
+2021.4.27 | [498. 对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/description/) | Medium (43.10%) | [array](https://leetcode.com/tag/array) | ✅ | 2021.4.27 | [498.对角线遍历.py](src/498.对角线遍历.py)
