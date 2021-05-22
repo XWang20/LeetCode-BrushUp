@@ -1,34 +1,28 @@
 #
-# @lc app=leetcode.cn id=206 lang=python3
+# @lc app=leetcode.cn id=206 lang=python
 #
 # [206] 反转链表
 #
 
 # @lc code=start
 # Definition for singly-linked list.
-# class ListNode:
+# class ListNode(object):
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-class Solution:
-    def reverseList(self, head: ListNode) -> ListNode:
-        # if head is None or head.next is None:
-        #     return head
-        # last = self.reverseList(head.next)
-        # head.next.next = head
-        # head.next = None
-        # return last
-
-        if not head or not head.next:
-            return head
-
-        cur, pre = head, None
+class Solution(object):
+    def reverseList(self, head):
+        """
+        :type head: ListNode
+        :rtype: ListNode
+        """
+        prev = None
+        cur = head
         while cur:
-            next_code = cur.next
-            cur.next = pre
-            pre = cur
-            cur = next_code
-
-        return pre
+            tmp = cur.next
+            cur.next = prev
+            prev = cur
+            cur = tmp
+        return prev
 # @lc code=end
 
