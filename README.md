@@ -76,6 +76,7 @@ Leetcode EVERY DAY! 👍
 2021.5.24 | [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/description/) | Easy (63.68%) | [hash-table](https://leetcode.com/tag/hash-table), [sort](https://leetcode.com/tag/sort)| ❎ | 2021.5.24 | [242.有效的字母异位词.py](src/242.有效的字母异位词.py)
 2021.5.25 | [412. Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/description/) | Easy (65.90%) | [Unknown](https://leetcode.com/tag/Unknown) | ❎ | 2021.5.25 | [412.fizz-buzz.py](src/412.fizz-buzz.py)
 2021.5.25 | [412. 3的幂](https://leetcode-cn.com/problems/power-of-three/description/) | Easy (48.17%) | [math](https://leetcode.com/tag/math) | ❎ | 2021.5.25 | [326.3-的幂.py](src/326.3-的幂.py)
+2021.5.26 | [49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/description/) | Medium (65.59%) | [hash-table](https://leetcode.com/tag/hash-table), [string](https://leetcode.com/tag/string) | ❎ | 2021.5.26 | [49.字母异位词分组.py](src/49.字母异位词分组.py)
 
 ## [Linked-list](https://leetcode-cn.com/tag/linked-list)
 | Date | Question | Difficulty | Tags | Read Solution? | Last Review | Solution |
